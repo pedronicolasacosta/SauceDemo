@@ -8,7 +8,7 @@
 ## Implementación
 
 * Proyecto Maven
-  * Instalación de Librerías y Plugins
+  * Librerías y Plugins (pom.xml)
     * selenium-java
     * junit
     * maven-compiler-plugin
