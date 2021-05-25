@@ -1,0 +1,7 @@
+1- Login con user y password correctos.
+2- Login con user inválido y password correcto.
+3- Login con user bloqueado.
+4- Login con user Nulo y password correcto.
+5- Login con problem_user y password correcto.
+6- Login con user correcto y password Nulo
+7- Login con user inválido y password correcto. Test falla, captura del error.
